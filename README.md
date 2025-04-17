@@ -72,12 +72,12 @@
 
 <div class="screenshot">
         <h4><i class="fa-solid fa-chart-column icon"></i> Product Revenue by Country (Bar Chart & Table)</h4>
-        <img src="/mnt/data/Screenshot 2025-03-25 154850.png" alt="Product Revenue Chart Screenshot"/>
+        <img src="Screenshots/Product Revenue by Country (Bar Chart & Table).png"/>
       </div>
 
 <div class="screenshot">
         <h4><i class="fa-solid fa-chart-pie icon"></i> Revenue Comparison by Age Group (Pie Chart)</h4>
-        <img src="/mnt/data/Screenshot 2025-03-25 155056.png" alt="Revenue by Age Group Screenshot"/>
+        <img src="Screenshots/Revenue Comparison by Age Group (Pie Chart).png"/>
       </div>
     </section>
   </main>
