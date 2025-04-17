@@ -67,7 +67,7 @@
 
 <div class="screenshot">
         <h4><i class="fa-solid fa-table icon"></i> Student Grades Table with Conditional Formatting</h4>
-        <img src="/mnt/data/Screenshot 2025-03-05 143522.png" alt="Student Grades Screenshot"/>
+        <img src="Screenshots/Student Grades Table with Conditional Formatting.png"/>
       </div>
 
 <div class="screenshot">
